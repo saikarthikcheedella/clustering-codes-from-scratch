@@ -9,10 +9,10 @@ They are different types of clustering methods, including:
 4) Density-based clustering. Ex: DBSCAN, OPTICS 
 5) Model-based clustering.
 
-Here I have written code for some clustering techniques from the scracth. They are:
-
-1) k-means.
-
-2) One of the Hierarchical clustering techniques - Agglomerative clustering.
-
+Here are for some clustering techniques written from the scracth:
+1) k-means:
+    
+    
+2) Agglomerative clustering (One of the Hierarchical clustering techniques):
+    
 
