@@ -10,9 +10,9 @@ They are different types of clustering methods, including:
 5) Model-based clustering.
 
 Here are for some clustering techniques written from the scracth:
-1) k-means:
-    
-    
-2) Agglomerative clustering (One of the Hierarchical clustering techniques):
-    
 
+1) k-means: Implementation flow
+![ScreenShot](https://github.com/saikarthikcheedella/clustering-codes-from-scratch/blob/master/table_of_contents_K-Means.PNG)
+    
+2) Agglomerative clustering (One of the Hierarchical clustering techniques): Implementation flow
+![ScreenShot](https://github.com/saikarthikcheedella/clustering-codes-from-scratch/blob/master/table_of_contents_agglomerative.PNG)
