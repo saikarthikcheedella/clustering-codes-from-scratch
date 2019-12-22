@@ -9,8 +9,12 @@ They are different types of clustering methods, including:
 4) Density-based clustering. Ex: DBSCAN, OPTICS 
 5) Model-based clustering.
 
+Here are some techniques, implemented from the scratch:
+
 1) K-Means: Implementation flow
+
 ![ScreenShot](https://github.com/saikarthikcheedella/clustering-codes-from-scratch/blob/master/table_of_contents_K-Means.PNG)
 
 2) Agglomerative Clustering (One of the Hierarchical clustering techniques): Implementation flow
+
 ![ScreenShot](https://github.com/saikarthikcheedella/clustering-codes-from-scratch/blob/master/table_of_contents_agglomerative.PNG)
